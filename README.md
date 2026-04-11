@@ -19,3 +19,7 @@
 - **[Options Arbitrage; Delta Hedging]**: Improving volatility predictions to improve delta hedging
 - **[Long/Short Equities Portfolio]**: Dual-Layer optimization framework for market neutral investing
   - [Report](https://drive.google.com/file/d/1JLVPQIinOqYo0L6ebi-NzfVvelwAHW-m/view)
+
+### Research Interests
+- **[Topological Data Analysis (TDA)]**
+- **[Consensus-Based Optimization (CBO)]**
