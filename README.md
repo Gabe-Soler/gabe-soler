@@ -1,6 +1,6 @@
 # `Gabe`
 
-### Education`
+### `Education`
 - **Queen's University**: B.A.Sc. in Engineering & Mathematics
 - **Focus**: Quantitative Finance, Risk management
 
