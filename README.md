@@ -2,7 +2,7 @@
 
 ### `Education`
 - **Queen's University**: B.A.Sc. in Engineering & Mathematics
-- **Focus**: Quantitative Finance, Risk management
+- **Focus**: AI, Quantitative Finance
 
 ### `Experience`
 - **[Royal Bank Of Canada]** |  *[AI Innovation Intern]*
