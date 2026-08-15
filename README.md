@@ -1,11 +1,11 @@
 # `Gabe`
 
 ### `Education`
-- **Queen's University**: B.A.Sc. in Engineering & Mathematics
+- **Queen's University**: B.A.Sc. Engineering & Mathematics
 - **Focus**: AI, Quantitative Finance
 
 ### `Experience`
-- **[Royal Bank Of Canada]** |  *[AI Innovation Intern]*
+- **[Royal Bank Of Canada]** |  *[AI Intern]*
 - **[QUANTT]** | *[Quantitative Analyst]*
   - Developed a systematic multi-factor long/short equity strategy across 399 equities and 11 market sectors, achieving 19.73% annualized return and Sharpe ratio of 2.51: outperforming the S&P 500 by 158 bps with 3.2× the risk-adjusted return and an 83.8% shallower maximum drawdown over a March 2025 to March 2026 backtest window.
 
