@@ -1,7 +1,7 @@
 # `Gabe`
 
 ### `Education`
-- **Queen's University**: B.A.Sc. Engineering & Mathematics
+- **Queen's University**: B.A.Sc. Mathematics & Engineering
 
 ### `Experience`
 - **[Royal Bank Of Canada]** |  *[Incoming S26 S&T Intern]*
@@ -13,10 +13,7 @@
   - [September 2025, March 2026]
   
 ### `Projects`
-- **[Forward + Reversed Gamma Scalping]**: Current QUANTT project
+- **[Forward + Reversed Gamma Scalping]**: Current QUANTT Project
+  - Research Focus: Reinforcement Learning for Realized Vol Forecasting, Deep Hedging, Agentic Algo Routing.
 - **[Long/Short Equities Portfolio]**: Dual-Layer optimization framework for market neutral investing
   - [Report](https://drive.google.com/file/d/1JLVPQIinOqYo0L6ebi-NzfVvelwAHW-m/view)
-
-### `Research Interests`
-- **[Topological Data Analysis (TDA)]**
-- **[Consensus-Based Optimization (CBO)]**
